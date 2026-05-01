@@ -1,7 +1,7 @@
 # CIBERSECURITY-KALI-LINUX-aulaDIO
 Repositório para descrição prática de invasão do curso CIBERSECURITY da pkataforma DIO usando KALI LINUX e ferramenta Medusa
 
-Neste repositório temos arquivo .docx (Simulando uso KALI Linux - desafio de projeto.docx) com comnados usados, prints comprovando acesso com data / hora e adaptações comprovando o uso prático do dono deste repositório.
+Neste repositório temos arquivo .docx (Simulando uso KALI Linux - desafio de projeto.docx) com comandos usados, prints comprovando acesso com data / hora e adaptações comprovando o uso prático do dono deste repositório.
 
 
 
